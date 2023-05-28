@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Xolt-Open-API-Test
+  name: Chinmoy-API-Test
   description: Test API for backstage integration
 spec:
   type: openapi
   lifecycle: production
-  owner: api-governance-team
+  owner: chinmoy-governance-team
   system: backstage
   definition:
     $text: /docs/swagger.json

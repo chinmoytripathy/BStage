@@ -5,10 +5,12 @@ metadata:
   description: Test API for backstage integration
   annotations:
     endpoints: |
-      - name: Ship small
-        uri: /shipment/small-package
-      - name: Ship large
-        uri: /shipment/large-package
+      - name: Users API
+        summary: API for managing user data
+        uri: /users
+      - name: Products API
+        summary: API for managing product data
+        uri: /products
 spec:
   type: openapi
   lifecycle: production

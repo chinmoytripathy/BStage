@@ -9,7 +9,6 @@ metadata:
         uri: /shipment/small-package
       - name: Ship large
         uri: /shipment/large-package
-
 spec:
   type: openapi
   lifecycle: production

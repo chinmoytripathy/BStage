@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Test With Annotations API
+  name: test-annotations-api
   description: Test API for backstage integration
   annotations:
     endpoints: |

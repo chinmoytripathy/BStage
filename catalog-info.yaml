@@ -16,4 +16,4 @@ spec:
   owner: chinmoy-governance-team
   system: backstage
   definition:
-    $text: /docs/SWagger.json
+    $text: /docs/swagger.json

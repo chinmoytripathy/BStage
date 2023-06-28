@@ -4,7 +4,7 @@ metadata:
   name: Test With Annotations API
   description: Test API for backstage integration
   annotations:
-    endpoints:
+    endpoints: |
       - name: Ship small
         uri: /shipment/small-package
       - name: Ship large

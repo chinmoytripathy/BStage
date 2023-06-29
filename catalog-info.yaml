@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: chinmoy-test-annotations-api
+  name: 'Chinmoy Test Annotations'
   description: Chinmoy Test API for backstage integration
   annotations:
     endpoints: |
